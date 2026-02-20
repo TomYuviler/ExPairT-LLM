@@ -19,12 +19,11 @@ Set API keys via environment variables (recommended), e.g.:
       --llm_for_generation o1-mini --llm_for_inputs o1-mini --llm_for_oracle o1-mini
 
 ## Citation
-    @misc{yuviler2025expairtllm,
-      title        = {ExPairT-LLM: Exact Learning for LLM Code Selection by Pairwise Queries},
-      author       = {Tom Yuviler and Dana Drachsler-Cohen},
-      year         = {2025},
-      eprint       = {2511.10855},
-      archivePrefix= {arXiv},
-      primaryClass = {cs.LG},
-      doi          = {10.48550/arXiv.2511.10855}
+    @inproceedings{yuviler2026expairtllm,
+      title     = {ExPairT-LLM: Exact Learning for LLM Code Selection by Pairwise Queries},
+      author    = {Yuviler, Tom and Drachsler-Cohen, Dana},
+      booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+      year      = {2026},
+      note      = {AAAI 2026},
+      url       = {https://arxiv.org/abs/2511.10855}
     }
